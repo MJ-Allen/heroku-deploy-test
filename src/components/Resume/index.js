@@ -3,7 +3,8 @@ import React from 'react';
 
 function Resume () {
     return (
-         <Container fluid ='true'>
+         <form fluid ='true'>
+          
            <div className='center' id='resume'>
            <h1 className="header">My Resume</h1>
            </div>
@@ -12,7 +13,7 @@ function Resume () {
                    
                
         
-            </container>
+            </form>
 
     )
 }
