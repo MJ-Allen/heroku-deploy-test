@@ -7,7 +7,7 @@ function About () {
             <div id='about'>
 
             <div className='img-container'>
-                 <img id='selfimage' src={Self} class="image" alt="Marquise Allen"/>
+                 <img id='selfimage' src={Self} className="image" alt="Marquise Allen"/>
             </div> 
             </div>
 

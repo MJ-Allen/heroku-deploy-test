@@ -3,7 +3,7 @@ import React from 'react';
 
 function Resume () {
     return (
-         <container fluid>
+         <Container fluid ='true'>
            <div className='center' id='resume'>
            <h1 className="header">My Resume</h1>
            </div>
